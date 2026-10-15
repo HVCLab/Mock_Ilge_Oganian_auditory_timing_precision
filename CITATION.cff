@@ -18,15 +18,15 @@ authors:
 preferred-citation:
   type: article
   title: "Auditory timing precision is determined by spectro-temporal continuity across sounds, not individual sound acoustics"
-authors:
-  - family-names: "Mock"
-    given-names: "Charlotte M."
-    orcid: "https://orcid.org/0009-0005-4566-2096"
-  - family-names: "Ilge"
-    given-names: "Leon"
-  - family-names: "Oganian"
-    given-names: "Yulia"
-    orcid: "https://orcid.org/0000-0002-3451-8938"
+  authors:
+    - family-names: "Mock"
+      given-names: "Charlotte M."
+      orcid: "https://orcid.org/0009-0005-4566-2096"
+    - family-names: "Ilge"
+      given-names: "Leon"
+    - family-names: "Oganian"
+      given-names: "Yulia"
+      orcid: "https://orcid.org/0000-0002-3451-8938"
   journal: "bioRxiv"
   year: 2026
   doi: "10.64898/2026.09.26.754418"
