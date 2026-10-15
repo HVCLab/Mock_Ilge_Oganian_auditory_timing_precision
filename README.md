@@ -26,7 +26,8 @@ Mock, C. M., Ilge, L., & Oganian, Y. (2026). Auditory timing precision is determ
 Mock, C. M., Ilge, L., & Oganian, Y. (2026). Data for "Auditory timing precision is determined by spectro-temporal continuity across sounds, not individual sound acoustics" (Mock et al.) (Version V1) [Dataset]. Zenodo. https://doi.org/10.5281/zenodo.23333974  
 
 ### License
-The code in this repository is distributed under the terms of the license specified in the LICENSE file.
+The code in this repository is licensed under the MIT License.  
+You are free to use, modify, and redistribute the code under the terms of this license. If you use or adapt the code for scientific research, we kindly ask you to cite the corresponding publication.
 
 ### Contact
 For questions about the code, data, or experimental procedure, please contact:  
