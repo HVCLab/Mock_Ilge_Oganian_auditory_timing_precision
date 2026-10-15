@@ -14,7 +14,6 @@ This project investigates how the acoustic relationship between successive sound
 Across a series of behavioral experiments, we examined how the spectral and temporal properties of preceding sounds affect the precision with which listeners perceive the timing of subsequent sounds. We additionally developed a computational model based on spectrally tuned neural oscillators to investigate potential mechanisms underlying these effects.
 
 ### Respository structure
-- data/ - should contain data files required for data_analysis (get data from Zenodo: https://doi.org/10.5281/zenodo.23333974) 
 - data_analysis/ - scripts to replicate main findings and results figures of behavioral experiments
 - experimental_scripts/ - scripts and supporting materials used to run the behavioral experiments
 - oscillator_model/ - code for implementing the computational oscillator model
